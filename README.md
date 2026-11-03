@@ -28,7 +28,7 @@ Student-Management/
 │
 └── .github/
     └── workflows/
-        └── ci.yml
+      └── ci.yml
 
 5. How to Run the Application
 Step 1: Clone the Repository
